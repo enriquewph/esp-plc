@@ -1,0 +1,3 @@
+[submodule "software/esp-plc-editor"]
+	path = software/esp-plc-editor
+	url = https://github.com/enriquewph/esp-plc-editor.git
