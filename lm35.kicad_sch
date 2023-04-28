@@ -6,9 +6,9 @@
 
   (title_block
     (title "Temperature Sensor Input")
-    (date "2021-06-10")
+    (date "2023-04-28")
     (rev "0.1")
-    (comment 1 "https://github.com/enriquewph/esp32-ups-monitor")
+    (comment 1 "https://github.com/enriquewph/esp-plc")
   )
 
   (lib_symbols

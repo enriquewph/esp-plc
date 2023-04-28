@@ -6,9 +6,9 @@
 
   (title_block
     (title "Power Supply")
-    (date "2021-06-10")
+    (date "2023-04-28")
     (rev "0.1")
-    (comment 1 "https://github.com/enriquewph/esp32-ups-monitor")
+    (comment 1 "https://github.com/enriquewph/esp-plc")
   )
 
   (lib_symbols
@@ -489,7 +489,6 @@
       )
     )
   )
-
 
   (junction (at 132.08 88.9) (diameter 0) (color 0 0 0 0)
     (uuid 04868f85-bc69-4fa9-8e62-d78ffe5ae58e)
