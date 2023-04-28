@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "components")(type "Legacy")(uri "D:/cloud/OneDrive - frc.utn.edu.ar/Mis Documentos/FACULTAD/2023/Maquinas/TP1-PLC/esp-plc/hardware/mainboard/lib/components.lib")(options "")(descr ""))
+  (lib (name "ESP32-WROVER-I")(type "Legacy")(uri "D:/cloud/OneDrive - frc.utn.edu.ar/Mis Documentos/FACULTAD/2023/Maquinas/TP1-PLC/esp-plc/hardware/mainboard/lib/esp32-wroover/ESP32-WROVER-I.lib")(options "")(descr ""))
+)
