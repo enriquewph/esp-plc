@@ -1,0 +1,4 @@
+Entrada de alimentación:
+24VAC
+Vpico en regulador: 24*sqrt(2)-2*0.7v = 32.54v
+Vmin en regulador (12v): 
